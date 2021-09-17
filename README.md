@@ -7,10 +7,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology at GGSIPU.\
 💡 &nbsp;I like to make cool stuff that people love to use. \
 📖 &nbsp;I like reading about history and culture of different places. \
-🌱 &nbsp;My goal in 2020, is to learn more about Systems Design, Data Structures, Machine Learning and Cloud Architecture.\
+🌱 &nbsp;My goal in 2021, is to learn more about Systems Design, Data Structures, Machine Learning and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
 
