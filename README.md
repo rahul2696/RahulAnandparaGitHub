@@ -41,14 +41,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/rahul2696">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulAnandparaGitHub&layout=compact&hide=python&langs_count=8&theme=algolia&hide_border=true"/>&nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahulAnandparaGitHub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulAnandparaGitHub&theme=algolia&hide_border=true" alt="streak-RahulAnandparaGitHub" />
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
 
 
